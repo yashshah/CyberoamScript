@@ -4,7 +4,7 @@
 
 cyberroamIP = "10.100.56.55" #The IP of the Cyberoam site.
 cyberroamPort = "8090" #Set to "" if not using.
-sleeptime = 3500 #Seconds to sleep
+sleeptime = 7100 #Seconds to sleep
 
 import getpass
 from time import strftime
